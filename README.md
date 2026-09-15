@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Tam (@TamDBe)
-- 🌱 I’m currently studying Computer Science at the University of Arizona (expected 2022)
 - 📫 How to reach me: tamducbe@gmail.com
 
 <!---
